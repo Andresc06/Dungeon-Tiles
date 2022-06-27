@@ -461,13 +461,13 @@ function inicializar() {
     //reconocimiento de las teclas del teclado para mover el jugador 
     document.addEventListener('keydown', function(key) {
 
-        if(key.code == 'KeyW') principalPlayer.up();
+        if(key.code == 'KeyW' || key.code == 'ArrowUp') principalPlayer.up();
         
-        if(key.code == 'KeyS') principalPlayer.down();
+        if(key.code == 'KeyS' || key.code == 'ArrowDown') principalPlayer.down();
 
-        if(key.code == 'KeyA') principalPlayer.left();
+        if(key.code == 'KeyA' || key.code == 'ArrowLeft') principalPlayer.left();
 
-        if(key.code == 'KeyD') principalPlayer.right();
+        if(key.code == 'KeyD' || key.code == 'ArrowRight') principalPlayer.right();
 
     })
 
