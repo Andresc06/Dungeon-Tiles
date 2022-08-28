@@ -1,11 +1,11 @@
 <h1 align="center">🐉 Dungeon Tiles 🎮</center>
 
-### Este el proyecto del juego en Canvas de la materia Desarrollo Web I de la Universidad Rafael Urdaneta
-### Link de la pagina: https://dungeon-tiles.netlify.app/
+### It is a Game Project using Canvas JS in the subject Web Developing I oof my University (URU)
+### Link: https://dungeon-tiles.netlify.app/
 
-Lenguajes Utilizados:
+Lenguages:
 - HTML
-- Javascript (Uso de Canvas)
+- Javascript (Using Canvas)
 
-Librerias utilizadas:
-- Sweetalert (para las alertas de Game over y Winning)
+Libraries:
+- Sweetalert (Game over y Winning alerts)
