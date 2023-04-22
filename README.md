@@ -1,6 +1,6 @@
 <h1 align="center">🐉 Dungeon Tiles 🎮</center>
 
-### This is a game written in JavaScript that involves moving around a character in a dungeon-like environment, collecting keys, and opening doors while avoiding enemies.
+### This is a game written in JavaScript that involves moving around a character in a dungeon-like environment, collecting a key, and opening doors while avoiding enemies.
 ### It's a Game Project using Canvas JS in the subject Web Developing I in my University (URU)
 ### Link: https://dungeon-tiles.vercel.app/
 
